@@ -10,7 +10,7 @@ We implement a **Regression Discontinuity Design (RDD)** to test whether existin
 
 #### Motivation
 
-Many banks use a **Markov Decision Process (MDP)** framework with bucketing algorithms to assign credit limits based on credit scores. These buckets impose fixed thresholds that may not capture true behavioral responses near the cutoff.
+Many banks use a **Markov Decision Process (MDP)** framework with bucketing algorithms to assign credit limits based on credit scores. These buckets impose thresholds that may not capture true behavioral responses near the cutoff.
 
 RDD offers a quasi-experimental design that helps banks validate whether a threshold jump meaningfully impacts outcomes, and more importantly, whether that jump reflects **optimal business value**.
 
